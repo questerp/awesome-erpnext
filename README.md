@@ -1,6 +1,6 @@
 # Awesome ERPNext
 
-A collection of Awesome ERPNext Resources.
+A collection of awesome ERPNext resources.
 
 ## Tutorials
 
