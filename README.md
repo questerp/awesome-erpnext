@@ -8,6 +8,8 @@ A collection of Awesome ERPNext Resources.
 
 ## Documentation
 
+Learn more about ERPNext
+
 * [Official User Manual - V12](https://docs.erpnext.com/docs/v12/user/manual/en) Official User manual for ERPNext version 12.
 * [Official User Manual - V13](https://docs.erpnext.com/docs/v13/user/manual/en) Official User manual for ERPNext version 13.
 * [Developer Guide](https://frappeframework.com/) Learn more about Frappe Framework, the framework on which ERPNext is built.
