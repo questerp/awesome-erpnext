@@ -6,6 +6,8 @@ A collection of awesome ERPNext resources.
 
 ## Reporting & BI
 
+* [reportbro.com](https://www.reportbro.com/home/index) - Print PDF documents in Python the easy way
+
 ## Templating Engines
 
 Templating will help customize print formats
@@ -44,5 +46,5 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [questerp](https://github.com/questerp) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Questerp](https://github.com/questerp) has waived all copyright and related or neighboring rights to this work.
 
